@@ -1,6 +1,6 @@
 ## [e-smartdata.org](https://e-smartdata.org/)
 ### Kurs: [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h)](https://e-smartdata.teachable.com/p/wprowadzenie-do-sieci-neuronowych-tensorflow-2-0-keras)
-Repozytorium jest częścią kursu [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h](https://e-smartdata.teachable.com/p/wprowadzenie-do-sieci-neuronowych-tensorflow-2-0-keras) dostępnym na platformie [e-smartdata.org](https://e-smartdata.org/)
+Repozytorium jest częścią kursu [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h)](https://e-smartdata.teachable.com/p/wprowadzenie-do-sieci-neuronowych-tensorflow-2-0-keras) dostępnym na platformie [e-smartdata.org](https://e-smartdata.org/)
 
 Zainteresowanie **sieciami neuronowymi** nigdy w historii nie było tak wysokie jak w ostatnich latach. To pokazuje jak ważnym elementem stają się sieci neuronowe w nowoczesnym budowaniu aplikacji. Rozwiązania sztucznej inteligencji spotykamy praktycznie na każdym kroku, a część z nas już tak do tego przywykła, że nie jest w stanie się bez nich obejść. 
 
