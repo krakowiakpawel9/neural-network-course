@@ -1,10 +1,9 @@
 ## [e-smartdata.org](https://e-smartdata.org/) - kursy online :computer:
-## Kurs: Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h) 
-Repozytorium jest częścią kursu **Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h)** dostępnym na platformie:
-* [e-smartdata.org](https://e-smartdata.org/):
-  * :point_right: [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h)](https://e-smartdata.teachable.com/p/wprowadzenie-do-sieci-neuronowych-tensorflow-2-0-keras)
-* [udemy.com](https://www.udemy.com/user/krakowiakpawel9/):
-  * :point_right: [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras (8.5h)](https://www.udemy.com/course/wprowadzenie-tensorflow-keras/?referralCode=74356FE803194F2C3C42)
+
+:point_right: [Strona na FB](https://www.facebook.com/esmartdata/)  
+:point_right: [Grupa na FB](https://www.facebook.com/groups/esmartdata/)  
+
+Po kupony zniżkowe zapraszamy do kontaktu poprzez stronę na FB lub mailowo: esmartdataorg@gmail.com.  
   
 ### REKOMENDOWANE ŚCIEŻKI UCZENIA
 
@@ -14,81 +13,120 @@ Repozytorium jest częścią kursu **Wprowadzenie do sieci neuronowych - Tensorf
 * [Ścieżka BI Analyst / Data Analyst](https://e-smartdata.teachable.com/p/sciezka-bi-analyst-data-analyst)
 * [Ścieżka Big Data Analyst](https://e-smartdata.teachable.com/p/sciezka-big-data-analyst)
 * [Ścieżka Python Developer](https://e-smartdata.teachable.com/p/sciezka-python-developer)
+* [Ścieżka C Developer](https://e-smartdata.teachable.com/p/sciezka-c-developer)
 ---
+#### PYTHON DEVELOPER:
+
+* [Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python/?referralCode=C7E5AD6D60ADCBDEF759)
+* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python-od-a-do-z-cwiczenia/?referralCode=F7E8037914EA401783CF)
+* [210+ Ćwiczeń - Python - Moduły wbudowane - od A do Z](https://www.udemy.com/course/cwiczenia-python-moduly-wbudowane/?referralCode=2FC3D3B57972694B5D40)
+* [Programowanie obiektowe w języku Python - OOP - od A do Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/?referralCode=A277D1725978D0DA0A9B)
+* [150+ Ćwiczeń - Programowanie obiektowe w języku Python - OOP](https://www.udemy.com/course/cwiczenia-programowanie-obiektowe-w-jezyku-python-oop-kurs/?referralCode=0658F3C7E0CF039D280E)
+* [Testy jednostkowe w języku Python - framework unittest](https://www.udemy.com/course/kurs-testy-jednostkowe-jezyk-python-framework-unittest/?referralCode=F2A5869309BF127E806F)
+* [100+ Ćwiczeń - Testy jednostkowe w języku Python - unittest](https://www.udemy.com/course/testy-jednostkowe-w-jezyku-python-unittest-kurs/?referralCode=A923D8BD40476EDDA13B)
+---
+#### SQL DEVELOPER:
+
+* [SQL Bootcamp - Bazy danych SQLite - Part I](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite/?referralCode=CBFDC1BBD8C0B3942207)
+* [SQL Bootcamp - Bazy danych SQLite - Part II](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-2/?referralCode=D9C065553AEF8DD7CE45)
+* [SQL Bootcamp - Bazy danych SQLite - Part III - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia/?referralCode=D3B2EA9829FC6D4AE308)
+* [SQL Bootcamp - Bazy danych SQLite - Part IV - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia-ii/?referralCode=C59DBA99D2FE9EDB3B8E)
+* [Big Data: Analiza danych przy użyciu SQL oraz BigQuery](https://www.udemy.com/course/big-data-bigquery/?referralCode=10C0A466D6710285AEC6)
+---
+
 #### DATA SCIENTIST / MACHINE LEARNING ENGINEER:
 
-* [Programowanie w języku Python - od A do Z - 2020](https://e-smartdata.teachable.com/p/programowanie-w-jezyku-python-od-a-do-z)
-* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://e-smartdata.teachable.com/p/200-cwiczen-programowanie-w-jezyku-python-od-a-do-z)
-* [Wprowadzenie do data science w języku Python - Pandas - 2020](https://e-smartdata.teachable.com/p/wprowadzenie-do-data-science-w-jezyku-python-pandas)
-* [Interaktywne wizualizacje danych w języku Python - Plotly](https://e-smartdata.teachable.com/p/interaktywne-wizualizacje-danych-w-jezyku-python-plotly)
-* [Data Science Bootcamp w języku Python - od A do Z - 2020](https://e-smartdata.teachable.com/p/data-science-bootcamp-w-jezyku-python-od-a-do-z)
-* [250+ Ćwiczeń - Data Science Bootcamp w języku Python](https://e-smartdata.teachable.com/p/250-cwiczen-data-science-bootcamp-w-jezyku-python)
-* [Machine Learning Bootcamp w języku Python cz.I - od A do Z](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-i-od-a-do-z)
-* [Machine Learning Bootcamp w języku Python cz.II - od A do Z](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-ii-od-a-do-z)
+* [Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python/?referralCode=C7E5AD6D60ADCBDEF759)
+* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python-od-a-do-z-cwiczenia/?referralCode=F7E8037914EA401783CF)
+* [210+ Ćwiczeń - Python - Moduły wbudowane - od A do Z](https://www.udemy.com/course/cwiczenia-python-moduly-wbudowane/?referralCode=2FC3D3B57972694B5D40)
+* [Programowanie obiektowe w języku Python - OOP - od A do Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/?referralCode=A277D1725978D0DA0A9B)
+* [150+ Ćwiczeń - Programowanie obiektowe w języku Python - OOP](https://www.udemy.com/course/cwiczenia-programowanie-obiektowe-w-jezyku-python-oop-kurs/?referralCode=0658F3C7E0CF039D280E)
+* [Testy jednostkowe w języku Python - framework unittest](https://www.udemy.com/course/kurs-testy-jednostkowe-jezyk-python-framework-unittest/?referralCode=F2A5869309BF127E806F)
+* [100+ Ćwiczeń - Testy jednostkowe w języku Python - unittest](https://www.udemy.com/course/testy-jednostkowe-w-jezyku-python-unittest-kurs/?referralCode=A923D8BD40476EDDA13B)
+* [Wprowadzenie do data science w języku Python - Pandas](https://www.udemy.com/course/wprowadzenie-data-science/?referralCode=D85D646D30D785FD5277)
+* [Interaktywne wizualizacje danych w języku Python - Plotly](https://www.udemy.com/course/wizualizacje-danych-python/?referralCode=A548AF40A5D2D658DAE6)
+* [Data Science Bootcamp w języku Python - od A do Z](https://www.udemy.com/course/data-science-bootcamp-python/?referralCode=7ACF0CA84807A88740FB)
+* [250+ Ćwiczeń - Data Science Bootcamp w języku Python](https://www.udemy.com/course/250-data-science-bootcamp-w-jezyku-python/?referralCode=BFFC4AF3CF8B8A6C85AB)
+* [SQL Bootcamp - Bazy danych SQLite - Part I](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite/?referralCode=CBFDC1BBD8C0B3942207)
+* [SQL Bootcamp - Bazy danych SQLite - Part II](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-2/?referralCode=D9C065553AEF8DD7CE45)
+* [SQL Bootcamp - Bazy danych SQLite - Part III - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia/?referralCode=D3B2EA9829FC6D4AE308)
+* [SQL Bootcamp - Bazy danych SQLite - Part IV - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia-ii/?referralCode=C59DBA99D2FE9EDB3B8E)
+* [Machine Learning Bootcamp w języku Python cz.I - od A do Z](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python/?referralCode=92994CE6227390CFA9D7)
+* [Machine Learning Bootcamp w języku Python cz.II - od A do Z](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python-ii/?referralCode=AE397842FEFADB697DC8)
+* [Machine Learning Bootcamp w języku Python cz.III - Ćwiczenia](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python-cwiczenia/?referralCode=69411EC2497CD9119831)
 ---
 #### DATA SCIENTIST / DEEP LEARNING ENGINEER
 
-* [Programowanie w języku Python - od A do Z - 2020](https://e-smartdata.teachable.com/p/programowanie-w-jezyku-python-od-a-do-z)
-* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://e-smartdata.teachable.com/p/200-cwiczen-programowanie-w-jezyku-python-od-a-do-z)
-* [Wprowadzenie do data science w języku Python - Pandas - 2020](https://e-smartdata.teachable.com/p/wprowadzenie-do-data-science-w-jezyku-python-pandas)
-* [Interaktywne wizualizacje danych w języku Python - Plotly](https://e-smartdata.teachable.com/p/interaktywne-wizualizacje-danych-w-jezyku-python-plotly)
-* [Data Science Bootcamp w języku Python - od A do Z - 2020](https://e-smartdata.teachable.com/p/data-science-bootcamp-w-jezyku-python-od-a-do-z)
-* [250+ Ćwiczeń - Data Science Bootcamp w języku Python](https://e-smartdata.teachable.com/p/250-cwiczen-data-science-bootcamp-w-jezyku-python)
-* [Machine Learning Bootcamp w języku Python cz.I - od A do Z](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-i-od-a-do-z)
-* [Machine Learning Bootcamp w języku Python cz.II - od A do Z](https://e-smartdata.teachable.com/p/machine-learning-bootcamp-w-jezyku-python-cz-ii-od-a-do-z)
-* [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras](https://e-smartdata.teachable.com/p/wprowadzenie-do-sieci-neuronowych-tensorflow-2-0-keras)
-* [Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe](https://e-smartdata.teachable.com/p/deep-learning-w-jezyku-python-konwolucyjne-sieci-neuronowe)
-* [Artificial Intelligence – Computer Vision w języku Python](https://e-smartdata.teachable.com/p/artificial-intelligence-computer-vision-w-jezyku-python)
+* [Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python/?referralCode=C7E5AD6D60ADCBDEF759)
+* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python-od-a-do-z-cwiczenia/?referralCode=F7E8037914EA401783CF)
+* [210+ Ćwiczeń - Python - Moduły wbudowane - od A do Z](https://www.udemy.com/course/cwiczenia-python-moduly-wbudowane/?referralCode=2FC3D3B57972694B5D40)
+* [Programowanie obiektowe w języku Python - OOP - od A do Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/?referralCode=A277D1725978D0DA0A9B)
+* [150+ Ćwiczeń - Programowanie obiektowe w języku Python - OOP](https://www.udemy.com/course/cwiczenia-programowanie-obiektowe-w-jezyku-python-oop-kurs/?referralCode=0658F3C7E0CF039D280E)
+* [Testy jednostkowe w języku Python - framework unittest](https://www.udemy.com/course/kurs-testy-jednostkowe-jezyk-python-framework-unittest/?referralCode=F2A5869309BF127E806F)
+* [100+ Ćwiczeń - Testy jednostkowe w języku Python - unittest](https://www.udemy.com/course/testy-jednostkowe-w-jezyku-python-unittest-kurs/?referralCode=A923D8BD40476EDDA13B)
+* [Wprowadzenie do data science w języku Python - Pandas](https://www.udemy.com/course/wprowadzenie-data-science/?referralCode=D85D646D30D785FD5277)
+* [Interaktywne wizualizacje danych w języku Python - Plotly](https://www.udemy.com/course/wizualizacje-danych-python/?referralCode=A548AF40A5D2D658DAE6)
+* [Data Science Bootcamp w języku Python - od A do Z](https://www.udemy.com/course/data-science-bootcamp-python/?referralCode=7ACF0CA84807A88740FB)
+* [250+ Ćwiczeń - Data Science Bootcamp w języku Python](https://www.udemy.com/course/250-data-science-bootcamp-w-jezyku-python/?referralCode=BFFC4AF3CF8B8A6C85AB)
+* [SQL Bootcamp - Bazy danych SQLite - Part I](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite/?referralCode=CBFDC1BBD8C0B3942207)
+* [SQL Bootcamp - Bazy danych SQLite - Part II](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-2/?referralCode=D9C065553AEF8DD7CE45)
+* [SQL Bootcamp - Bazy danych SQLite - Part III - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia/?referralCode=D3B2EA9829FC6D4AE308)
+* [SQL Bootcamp - Bazy danych SQLite - Part IV - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia-ii/?referralCode=C59DBA99D2FE9EDB3B8E)
+* [Machine Learning Bootcamp w języku Python cz.I - od A do Z](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python/?referralCode=92994CE6227390CFA9D7)
+* [Machine Learning Bootcamp w języku Python cz.II - od A do Z](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python-ii/?referralCode=AE397842FEFADB697DC8)
+* [Machine Learning Bootcamp w języku Python cz.III - Ćwiczenia](https://www.udemy.com/course/machine-learning-bootcamp-w-jezyku-python-cwiczenia/?referralCode=69411EC2497CD9119831)
+* [Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras](https://www.udemy.com/course/wprowadzenie-tensorflow-keras/?referralCode=74356FE803194F2C3C42)
+* [Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe](https://www.udemy.com/course/deep-learning-w-jezyku-python/?referralCode=24567C4A18A3F17E0B47)
+* [Artificial Intelligence – Computer Vision w języku Python](https://www.udemy.com/course/artificial-intelligence-computer-vision/?referralCode=09C26CA07A8F6DF74148)
 ---
 #### BI ANALYST / DATA ANALYST:
 
-* [Programowanie w języku Python - od A do Z - 2020](https://e-smartdata.teachable.com/p/programowanie-w-jezyku-python-od-a-do-z)
-* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://e-smartdata.teachable.com/p/200-cwiczen-programowanie-w-jezyku-python-od-a-do-z)
-* [Wprowadzenie do data science w języku Python - Pandas - 2020](https://e-smartdata.teachable.com/p/wprowadzenie-do-data-science-w-jezyku-python-pandas)
-* [Interaktywne wizualizacje danych w języku Python - Plotly](https://e-smartdata.teachable.com/p/interaktywne-wizualizacje-danych-w-jezyku-python-plotly)
-* [Twórz nowoczesne aplikacje webowe w Pythonie - Dash, Plotly](https://e-smartdata.teachable.com/p/tworz-nowoczesne-aplikacje-webowe-w-pythonie-dash-plotly)
-* [Data Science Bootcamp w języku Python - od A do Z](https://e-smartdata.teachable.com/p/data-science-bootcamp-w-jezyku-python-od-a-do-z)
-* [250+ Ćwiczeń - Data Science Bootcamp w języku Python](https://e-smartdata.teachable.com/p/250-cwiczen-data-science-bootcamp-w-jezyku-python)
+* [Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python/?referralCode=C7E5AD6D60ADCBDEF759)
+* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python-od-a-do-z-cwiczenia/?referralCode=F7E8037914EA401783CF)
+* [210+ Ćwiczeń - Python - Moduły wbudowane - od A do Z](https://www.udemy.com/course/cwiczenia-python-moduly-wbudowane/?referralCode=2FC3D3B57972694B5D40)
+* [Programowanie obiektowe w języku Python - OOP - od A do Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/?referralCode=A277D1725978D0DA0A9B)
+* [150+ Ćwiczeń - Programowanie obiektowe w języku Python - OOP](https://www.udemy.com/course/cwiczenia-programowanie-obiektowe-w-jezyku-python-oop-kurs/?referralCode=0658F3C7E0CF039D280E)
+* [Testy jednostkowe w języku Python - framework unittest](https://www.udemy.com/course/kurs-testy-jednostkowe-jezyk-python-framework-unittest/?referralCode=F2A5869309BF127E806F)
+* [100+ Ćwiczeń - Testy jednostkowe w języku Python - unittest](https://www.udemy.com/course/testy-jednostkowe-w-jezyku-python-unittest-kurs/?referralCode=A923D8BD40476EDDA13B)
+* [Wprowadzenie do data science w języku Python - Pandas](https://www.udemy.com/course/wprowadzenie-data-science/?referralCode=D85D646D30D785FD5277)
+* [Interaktywne wizualizacje danych w języku Python - Plotly](https://www.udemy.com/course/wizualizacje-danych-python/?referralCode=A548AF40A5D2D658DAE6)
+* [Twórz nowoczesne aplikacje webowe w Pythonie - Dash, Plotly](https://www.udemy.com/course/aplikacje-webowe-dash/?referralCode=40C44F12D311213BEC48)
+* [Data Science Bootcamp w języku Python - od A do Z](https://www.udemy.com/course/data-science-bootcamp-python/?referralCode=7ACF0CA84807A88740FB)
+* [250+ Ćwiczeń - Data Science Bootcamp w języku Python](https://www.udemy.com/course/250-data-science-bootcamp-w-jezyku-python/?referralCode=BFFC4AF3CF8B8A6C85AB)
+* [SQL Bootcamp - Bazy danych SQLite - Part I](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite/?referralCode=CBFDC1BBD8C0B3942207)
+* [SQL Bootcamp - Bazy danych SQLite - Part II](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-2/?referralCode=D9C065553AEF8DD7CE45)
+* [SQL Bootcamp - Bazy danych SQLite - Part III - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia/?referralCode=D3B2EA9829FC6D4AE308)
+* [SQL Bootcamp - Bazy danych SQLite - Part IV - Ćwiczenia](https://www.udemy.com/course/sql-bootcamp-bazy-danych-sqlite-cwiczenia-ii/?referralCode=C59DBA99D2FE9EDB3B8E)
 ---
 #### BIG DATA ANALYST:
 
-* [Programowanie w języku Python - od A do Z - 2020](https://e-smartdata.teachable.com/p/programowanie-w-jezyku-python-od-a-do-z)
-* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://e-smartdata.teachable.com/p/200-cwiczen-programowanie-w-jezyku-python-od-a-do-z)
-* [Wprowadzenie do data science w języku Python - Pandas - 2020](https://e-smartdata.teachable.com/p/wprowadzenie-do-data-science-w-jezyku-python-pandas)
-* [Interaktywne wizualizacje danych w języku Python - Plotly](https://e-smartdata.teachable.com/p/interaktywne-wizualizacje-danych-w-jezyku-python-plotly)
-* [Big Data, Hadoop oraz MapReduce w języku Python - 2020](https://e-smartdata.teachable.com/p/big-data-hadoop-oraz-mapreduce-w-jezyku-python)
-* [Big Data: Analiza danych przy użyciu SQL oraz BigQuery - 2020](https://e-smartdata.teachable.com/p/big-data-analiza-danych-przy-uzyciu-sql-oraz-bigquery-gcp)
+* [Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python/?referralCode=C7E5AD6D60ADCBDEF759)
+* [200+ Ćwiczeń - Programowanie w języku Python - od A do Z](https://www.udemy.com/course/programowanie-w-jezyku-python-od-a-do-z-cwiczenia/?referralCode=F7E8037914EA401783CF)
+* [210+ Ćwiczeń - Python - Moduły wbudowane - od A do Z](https://www.udemy.com/course/cwiczenia-python-moduly-wbudowane/?referralCode=2FC3D3B57972694B5D40)
+* [Programowanie obiektowe w języku Python - OOP - od A do Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/?referralCode=A277D1725978D0DA0A9B)
+* [150+ Ćwiczeń - Programowanie obiektowe w języku Python - OOP](https://www.udemy.com/course/cwiczenia-programowanie-obiektowe-w-jezyku-python-oop-kurs/?referralCode=0658F3C7E0CF039D280E)
+* [Testy jednostkowe w języku Python - framework unittest](https://www.udemy.com/course/kurs-testy-jednostkowe-jezyk-python-framework-unittest/?referralCode=F2A5869309BF127E806F)
+* [100+ Ćwiczeń - Testy jednostkowe w języku Python - unittest](https://www.udemy.com/course/testy-jednostkowe-w-jezyku-python-unittest-kurs/?referralCode=A923D8BD40476EDDA13B)
+* [Wprowadzenie do data science w języku Python - Pandas](https://www.udemy.com/course/wprowadzenie-data-science/?referralCode=D85D646D30D785FD5277)
+* [Interaktywne wizualizacje danych w języku Python - Plotly](https://www.udemy.com/course/wizualizacje-danych-python/?referralCode=A548AF40A5D2D658DAE6)
+* [Big Data, Hadoop oraz MapReduce w języku Python](https://www.udemy.com/course/big-data-hadoop-mapreduce/?referralCode=5D8569C9A3FC2D232B67)
+* [Big Data: Analiza danych przy użyciu SQL oraz BigQuery](https://www.udemy.com/course/big-data-bigquery/?referralCode=10C0A466D6710285AEC6)
 ---
 #### ENG
 
 * [200+ Exercises - Programming in Python - from A to Z](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/?referralCode=B8F5DEBD2FB418EA4147)
+* [210+ Exercises - Python Standard Libraries - from A to Z](https://www.udemy.com/course/exercises-python-standard-libraries/?referralCode=C4B0D9955BD0C79696EE)
+* [150+ Exercises - Object Oriented Programming in Python - OOP](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/?referralCode=B53C3A8BD1A72E62EFE1)
+* [100+ Exercises - Unit tests in Python - unittest framework](https://www.udemy.com/course/unit-testing-python-unittest-framework/?referralCode=876B2AFF6B1E38D534CE)
+* [100+ Exercises - Python Programming - Data Science - NumPy](https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/?referralCode=5EBB9741CD12E8CEB744)
+* [100+ Exercises - Python Programming - Data Science - Pandas](https://www.udemy.com/course/100-exercises-python-programming-data-science-pandas/?referralCode=9ACF7D5172F2AC8C8A40)
+* [100+ Exercises - Python - Data Science - scikit-learn](https://www.udemy.com/course/100-exercises-python-data-science-scikit-learn/?referralCode=4BEED75986FF57D56D59)
 * [250+ Exercises - Data Science Bootcamp in Python](https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/?referralCode=673FE6893CE253526C4D)
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part I](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/?referralCode=FF68FEF0106BDE6D4950)
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part II](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-ii/?referralCode=A12E7493134B4913E53B)
 ---
-### :white_check_mark: Opis kursu
 
-Zainteresowanie **sieciami neuronowymi** nigdy w historii nie było tak wysokie jak w ostatnich latach. To pokazuje jak ważnym elementem stają się sieci neuronowe w nowoczesnym budowaniu aplikacji. Rozwiązania sztucznej inteligencji spotykamy praktycznie na każdym kroku, a część z nas już tak do tego przywykła, że nie jest w stanie się bez nich obejść. 
-
-W 2018 roku trzej pionierzy sztucznej inteligencji zdobyli **nagrodę Turinga** (Geoffrey Hinton, Yann LeCun, Yoshua Bengio). To wydarzenie podkreśla jak ważny element w dzisiejszym świecie pełni sztuczna inteligencja.  
-
-Według **Gartnera** w 2019 roku najczęściej spotykane zastosowania sztucznej inteligencji to odpowiednio:
-* czatboty
-* optymalizacje procesów
-* analiza transakcji i wyłudzeń finansowych
-* segmentacja konsumentów
-* diagnostyka sprzętowa
-* wirtualne call center i asystent klienta
-* rozpoznawanie twarzy
-
-### Boom na rozwiązania AI
-
-Zastosowania sztucznej inteligencji (Artificial Intelligence) rosną w tempie wykładniczym. Od prostych modeli klasyfikujących pocztę mailową, wybierającą najbardziej optymalną trasę dojazdu, rozpoznającą nas w czasie rzeczywistym (wideoweryfikacja) po auta a nawet samoloty autonomiczne. A przed nami przecież tyle nieodkrytych obszarów w których można zastosować AI.
-
-### Do czego służy biblioteka Keras?
-
-Keras to biblioteka open source do tworzenia sieci neuronowych, która jako backend wykorzystuje Tensorflow, CNTK, czy Theano. Jest doskonałym narzędziem do prototypowania i eksperymentowania oszczędzając nam wiele czasu przy pisaniu kodu. Stanowi także niską barierę wejścia dla osób, które dopiero zaczynają swoją karierę w uczeniu głębokim.
-
-### Wzrost popularności języka Python
-
-Język Python świetnie nadaje się do przetwarzania, przygotowania, analizy i modelowania danych. Jest prosty do nauki i nie powinien sprawiać problemów osobie, która dopiero zaczyna uczyć się programowania. Na przestrzeni ostatnich lat i rosnącej popularności sztucznej inteligencji Python wyrósł na gwiazdę w tym sektorze. Powstało sporo potężnych bibliotek do machine learningu, czy deep learningu. Przykładem może być stworzona przez Google biblioteka Tensorflow.
-
-Biorąc pod uwagę drastyczne tempo zmian w ostatnich latach i wzrost zainteresowania sztuczną inteligencją nauka sieci neuronowych staje się bardzo rozsądnym wyborem, który z pewnością zaprocentuje w przyszłości.
+Więcej na:  
+:heavy_check_mark: https://www.udemy.com/user/krakowiakpawel9/  
+:heavy_check_mark: https://e-smartdata.org/  
+:heavy_check_mark: https://eduj.pl/autorzy/44  
